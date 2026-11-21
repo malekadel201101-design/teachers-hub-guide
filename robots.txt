@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://malekadel201101-design.github.io/teachers-hub-guide/sitemap.xml
