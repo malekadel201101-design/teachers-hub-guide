@@ -7,21 +7,21 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://teachers-hub-guide.pages.dev/"/>
   </url>
   <url>
+    <loc>https://teachers-hub-guide.pages.dev/guide</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://teachers-hub-guide.pages.dev/guide"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://teachers-hub-guide.pages.dev/en/guide"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://teachers-hub-guide.pages.dev/guide"/>
+  </url>
+  <url>
     <loc>https://teachers-hub-guide.pages.dev/en/</loc>
     <xhtml:link rel="alternate" hreflang="ar" href="https://teachers-hub-guide.pages.dev/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://teachers-hub-guide.pages.dev/en/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://teachers-hub-guide.pages.dev/"/>
   </url>
   <url>
-    <loc>https://teachers-hub-guide.pages.dev/guide.html</loc>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://teachers-hub-guide.pages.dev/guide.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://teachers-hub-guide.pages.dev/en/guide.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://teachers-hub-guide.pages.dev/guide.html"/>
-  </url>
-  <url>
-    <loc>https://teachers-hub-guide.pages.dev/en/guide.html</loc>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://teachers-hub-guide.pages.dev/guide.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://teachers-hub-guide.pages.dev/en/guide.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://teachers-hub-guide.pages.dev/guide.html"/>
+    <loc>https://teachers-hub-guide.pages.dev/en/guide</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://teachers-hub-guide.pages.dev/guide"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://teachers-hub-guide.pages.dev/en/guide"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://teachers-hub-guide.pages.dev/guide"/>
   </url>
 </urlset>
