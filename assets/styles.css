@@ -15,3 +15,14 @@ html[dir="ltr"] body{font-family:'DM Sans','Alexandria',Arial,sans-serif}html[di
 .comparison-table tr:last-child td{border-bottom:0}
 .comparison-table tbody tr:nth-child(even){background:#fbfcff}
 @media(max-width:680px){.comparison-table{min-width:480px}}
+
+
+/* Guide comparison worksheet and tutor-selection FAQs */
+.worksheet-table{min-width:720px}
+.worksheet-table td:not(:first-child){min-width:125px}
+.worksheet-blank{display:block;min-height:30px;border-bottom:1px dashed #cbd4e2}
+.guide-faq-list{display:grid;gap:11px;margin-top:15px}
+.guide-faq-list details{background:#fbfcff;border:1px solid #e9edf4;border-radius:13px;padding:0 16px}
+.guide-faq-list summary{font-size:12px;line-height:1.8;padding-top:14px;padding-bottom:14px}
+.guide-faq-list details p{font-size:12px;line-height:2.1;padding-top:10px}
+@media(max-width:680px){.worksheet-table{min-width:720px}}
